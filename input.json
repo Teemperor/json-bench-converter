@@ -1,0 +1,191 @@
+{
+  "context": {
+    "date": "2017-07-21 11:40:51",
+    "num_cpus": 8,
+    "mhz_per_cpu": 2500,
+    "cpu_scaling_enabled": false,
+    "library_build_type": "release"
+  },
+  "benchmarks": [
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/8_mean",
+      "iterations": 86749616,
+      "real_time": 8,
+      "cpu_time": 8,
+      "time_unit": "ns",
+      "bytes_per_second": 7680978029,
+      "items_per_second": 960122254
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/8_stddev",
+      "iterations": 0,
+      "real_time": 0,
+      "cpu_time": 0,
+      "time_unit": "ns",
+      "bytes_per_second": 223956483,
+      "items_per_second": 27994560
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/64_mean",
+      "iterations": 10097367,
+      "real_time": 65,
+      "cpu_time": 64,
+      "time_unit": "ns",
+      "bytes_per_second": 7957475871,
+      "items_per_second": 994684484
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/64_stddev",
+      "iterations": 0,
+      "real_time": 2,
+      "cpu_time": 2,
+      "time_unit": "ns",
+      "bytes_per_second": 227985823,
+      "items_per_second": 28498228
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/512_mean",
+      "iterations": 1497288,
+      "real_time": 482,
+      "cpu_time": 480,
+      "time_unit": "ns",
+      "bytes_per_second": 8537339998,
+      "items_per_second": 1067167500
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/512_stddev",
+      "iterations": 0,
+      "real_time": 12,
+      "cpu_time": 12,
+      "time_unit": "ns",
+      "bytes_per_second": 219139697,
+      "items_per_second": 27392462
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/4096_mean",
+      "iterations": 150380,
+      "real_time": 4589,
+      "cpu_time": 4582,
+      "time_unit": "ns",
+      "bytes_per_second": 7153099980,
+      "items_per_second": 894137497
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/4096_stddev",
+      "iterations": 0,
+      "real_time": 84,
+      "cpu_time": 83,
+      "time_unit": "ns",
+      "bytes_per_second": 129719675,
+      "items_per_second": 16214959
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/8192_mean",
+      "iterations": 83925,
+      "real_time": 9152,
+      "cpu_time": 9146,
+      "time_unit": "ns",
+      "bytes_per_second": 7170300923,
+      "items_per_second": 896287615
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<double>/8192_stddev",
+      "iterations": 0,
+      "real_time": 259,
+      "cpu_time": 258,
+      "time_unit": "ns",
+      "bytes_per_second": 200133361,
+      "items_per_second": 25016670
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/8_mean",
+      "iterations": 76841169,
+      "real_time": 9,
+      "cpu_time": 9,
+      "time_unit": "ns",
+      "bytes_per_second": 14836153349,
+      "items_per_second": 927259584
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/8_stddev",
+      "iterations": 0,
+      "real_time": 0,
+      "cpu_time": 0,
+      "time_unit": "ns",
+      "bytes_per_second": 146048163,
+      "items_per_second": 9128010
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/64_mean",
+      "iterations": 10422250,
+      "real_time": 67,
+      "cpu_time": 66,
+      "time_unit": "ns",
+      "bytes_per_second": 15416790881,
+      "items_per_second": 963549430
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/64_stddev",
+      "iterations": 0,
+      "real_time": 2,
+      "cpu_time": 2,
+      "time_unit": "ns",
+      "bytes_per_second": 443111647,
+      "items_per_second": 27694478
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/512_mean",
+      "iterations": 1410591,
+      "real_time": 505,
+      "cpu_time": 504,
+      "time_unit": "ns",
+      "bytes_per_second": 16253031226,
+      "items_per_second": 1015814452
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/512_stddev",
+      "iterations": 0,
+      "real_time": 12,
+      "cpu_time": 12,
+      "time_unit": "ns",
+      "bytes_per_second": 372837126,
+      "items_per_second": 23302320
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/4096_mean",
+      "iterations": 100000,
+      "real_time": 5167,
+      "cpu_time": 5164,
+      "time_unit": "ns",
+      "bytes_per_second": 12696196446,
+      "items_per_second": 793512278
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/4096_stddev",
+      "iterations": 0,
+      "real_time": 111,
+      "cpu_time": 111,
+      "time_unit": "ns",
+      "bytes_per_second": 267135940,
+      "items_per_second": 16695996
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/8192_mean",
+      "iterations": 57305,
+      "real_time": 12186,
+      "cpu_time": 11713,
+      "time_unit": "ns",
+      "bytes_per_second": 11191346211,
+      "items_per_second": 699459138
+    },
+    {
+      "name": "BM_Cartesian3D_Mag2<ROOT::Double_v>/8192_stddev",
+      "iterations": 0,
+      "real_time": 197,
+      "cpu_time": 118,
+      "time_unit": "ns",
+      "bytes_per_second": 113086823,
+      "items_per_second": 7067926
+    }
+  ]
+}
